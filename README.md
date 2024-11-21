@@ -1,19 +1,25 @@
-FT_Transcendence
+<h1>FT_Transcendence</h1>
 
 FT_Transcendence is a cutting-edge, full-stack web application that combines modern technologies to deliver a seamless and interactive user experience.
 Features
 
-    Full-Stack Architecture: 
-        Built with Django REST API for the backend and React for the frontend.
-    Secure Authentication:
+Full-Stack Architecture: 
+
+    Built with Django REST API for the backend and React for the frontend.
+Secure Authentication:
+
         Integrated OAuth 2.0 for user authentication and data retrieval.
-    Real-Time Interactivity:
+Real-Time Interactivity:
+
         Includes WebSockets for live chat functionality and an interactive Pong game.
-    Blockchain Integration:
+Blockchain Integration:
+
         Game results are securely stored on the blockchain using Ganache.
-    Containerization:
+Containerization:
+
         Ensures consistent development and deployment with Docker.
-    Optimized Performance:
+Optimized Performance:
+
         Configured Nginx as a reverse proxy for efficient performance and secure HTTPS handling.
 
 Technology Stack
@@ -35,7 +41,7 @@ Installation
 
     Clone the Repository:
 
-    git clone https://github.com/MehdiMirzaie2/ft_transcendence.git  
+    git clone https://github.com/MehdiMirzaie2/Transcendence.git  
     cd ft_transcendence  
 
 Environment Variables:
