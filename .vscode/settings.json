@@ -1,0 +1,23 @@
+{
+    "mypy.runUsingActiveInterpreter": true,
+    "editor.detectIndentation" : false,
+    "editor.insertSpaces": true,
+    
+    "[python]": {
+        "editor.tabSize": 4,
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2,
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    
+    "eslint.validate": ["javascript"]
+    
+    "remote.extensionKind": {
+        "GitHub.copilot": ["ui"],
+        "GitHub.copilot-chat": ["ui"],
+        "linhmtran168.mac-ca-vscode": ["ui"],
+      }
+}
