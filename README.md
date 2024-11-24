@@ -11,6 +11,18 @@ The aim of this project was to create a full stack applicaiton, with the followi
     <li>Enable users to update their profiles</li> 
 </ul>
 
+# Samples
+<img src="./images/welcome.png"></img>
+<img src="./images/profile.png"></img>
+<img src="./images/firstfriend.png"></img>
+<img src="./images/listusers.png"></img>
+<img src="./images/chatnoroomselected.png"></img>
+<img src="./images/chat1-1.png"></img>
+<img src="./images/chatgroup.png"></img>
+<img src="./images/groupchatupdate.png"></img>
+<img src="./images/pongstart.png"></img>
+<img src="./images/pongingame.png"></img>
+
 # :computer: This Project Tech Stack
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
