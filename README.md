@@ -60,6 +60,7 @@ The aim of this project was to create a full-stack application with the followin
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+    <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="65" height="65" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
 
 # :construction_worker: How to Run
