@@ -47,16 +47,28 @@ As websockets are used to build the chat system, it was possible to track when f
 
 # :construction_worker: How to Run
 
-You will need to Docker installed on your machine.
-Clone this repo
-```
-    git clone https://github.com/MehdiMirzaie2/Pong-Chat-App
-```
+<ul>
+    <li>You need to have Docker installed on your machine.</li>
+    <li>Clone this repo, move into the folder</li>
 
+        git clone https://github.com/MehdiMirzaie2/Pong-Chat-App
+        cd Pong-Chat-App
+</ul>
 
+There two methods to run the project. If you just want to view the frontend with out making changes, run
+
+    make
+
+else, use docker commands. For this you will need two terminals, first one will watch the repository for any changes, and the second will run the containers.
+
+first terminal
+
+    docker compose watch
+
+second terminal
+
+    docker compose up
+    
 # :bug: Issues
 
-Please feel free **to create a new issue** with its title and description on the issues page of the [webserv](https://github.com/MehdiMirzaie2/42-webserv/issues) Repository. If you have already found the solution to the problem, **I would love to review your pull request**!
-
-
-To help me out, and if you think this repo is helpful give ⭐️
+Please feel free **to create a new issue** with its title and description on the [issues](https://github.com/MehdiMirzaie2/Pon-Chat-App/issues) page of the Repository. If you have already found the solution to the problem, **I would love to review your pull request**!
