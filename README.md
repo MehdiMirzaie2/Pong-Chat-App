@@ -73,3 +73,22 @@ The aim of this project was to create a full-stack application with the followin
 ```bash
 git clone https://github.com/MehdiMirzaie2/Pong-Chat-App
 cd Pong-Chat-App
+```
+There are two methods to run the project. If you want to view the frontend without making changes, run:
+```bash
+make
+```
+Otherwise, use Docker commands. For this, you'll need two terminals:
+<ul>
+<li>The first terminal will watch the repository for changes.</li>
+<li>The second terminal will run the containers.</li>
+</ul>
+
+First terminal:
+```bash
+docker compose watch
+```
+Second terminal:
+```bash
+docker compose up
+```
