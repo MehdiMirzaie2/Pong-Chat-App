@@ -1,75 +1,34 @@
-<h1>FT_Transcendence</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Pong+%2F+Chat+Web+App)](https://git.io/typing-svg)
 
-FT_Transcendence is a cutting-edge, full-stack web application that combines modern technologies to deliver a seamless and interactive user experience.
-Features
+# :sparkles: What is This Project?
+The aim of this project was to create a full stack applicaiton, with the following requierments:
+<ul>
+    <li>Responsive for all screen sizes</li>
+    <li>Pong single, and multiplayer</li>
+    <li>Block chain, to store multiplayer game results</li>
+    <li>OAuth 2, for user authentication</li>
+    <li>Live chat, one-to-one, and groups</li>
+    <li>Enable users to update their profiles</li> 
+</ul>
 
-Full-Stack Architecture: 
+# :computer: This Project Tech Stack
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
 
-    Built with Django REST API for the backend and React for the frontend.
-Secure Authentication:
+# :construction_worker: How to Run
+```bash
+$ git clone ....repo...
 
-        Integrated OAuth 2.0 for user authentication and data retrieval.
-Real-Time Interactivity:
+# *************COMMANDS************ #
+# run - run compile all the libtest with the your libft and run the all tests
+$ make all
 
-        Includes WebSockets for live chat functionality and an interactive Pong game.
-Blockchain Integration:
+$ ./webserv <optional args {config/...}\>
 
-        Game results are securely stored on the blockchain using Ganache.
-Containerization:
+```
 
-        Ensures consistent development and deployment with Docker.
-Optimized Performance:
+# :bug: Issues
 
-        Configured Nginx as a reverse proxy for efficient performance and secure HTTPS handling.
+Please feel free **to create a new issue** with its title and description on the issues page of the [webserv](https://github.com/MehdiMirzaie2/42-webserv/issues) Repository. If you have already found the solution to the problem, **I would love to review your pull request**!
 
-Technology Stack
 
-    Backend: Django
-    Frontend: React, BootStrap 5, ReactStrap
-    Database: PostgreSQL
-    Blockchain: Ganache
-    DevOps: Docker, Nginx
-
-Setup and Installation
-Prerequisites
-
-    Docker and Docker Compose installed
-    Node.js and npm installed
-    Python 3.8+
-
-Installation
-
-    Clone the Repository:
-
-    git clone https://github.com/MehdiMirzaie2/Transcendence.git  
-    cd ft_transcendence  
-
-Environment Variables:
-Populate the .env.dev file in the project root and configure the necessary variables. 
-
-Start the Application:
-Use Docker Compose to build and start the containers.
-
-    terminal 1
-        docker compose watch
-    terminal 2
-        docker compose up
-    or run
-        make
-
-    Access the Application:
-    The application will be available at https://localhost
-
-Usage
-Pong Game
-
-    Access the interactive Pong game from the dashboard and compete in real-time.
-    Game results are logged and stored securely on the blockchain.
-
-Chat System
-
-    Engage in live conversations with other users via WebSockets.
-
-Contributing
-
-Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request.
+To help me out, and if you think this repo is helpful give ⭐️
